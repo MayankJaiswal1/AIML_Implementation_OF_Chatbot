@@ -13,6 +13,7 @@ Building a chatbot for daily conversations? Here’s how we’re doing it in a s
 ✅ Step 3: Train the chatbot on conversational data.
 ✅ Step 4: Implement a logic-based response system.
 ✅ Step 5: Test and improve based on user feedback.
+command on cmd of vcs is python -m streamlit run chatbot.py
 
 #💬 Our chatbot is designed for natural conversations—no complex tech stacks, just simple, smart interactions!
 
